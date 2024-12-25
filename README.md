@@ -1,4 +1,4 @@
-# Corrupt a File! by @vikiase
+# Corrupt a File! 
 
 ## Overview
 "Corrupt a File!" is a fun and simple application that allows users to create and corrupt files in various formats (PDF, DOCX, PPTX, XLS).
